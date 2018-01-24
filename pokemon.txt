@@ -1,0 +1,9 @@
+Player 1 Information.
+Pokemon 1 name:	Gyarados	Pokemon 1 hp:	0
+Pokemon 1 #:	130
+Pokemon 1 level:	6
+Player 1 Information.
+Pokemon 2 name:	Bulbasaur	Pokemon 2 hp:	53
+Pokemon 2 #:	1
+Pokemon 2 level:	6
+Gyarados
